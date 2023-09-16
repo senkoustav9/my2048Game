@@ -163,7 +163,7 @@ function App() {
         <div className="Details">
           <div className="BestScoreBox">Best: {bestScore}</div>
           <div className="Heading">
-            <p className="p1">my</p>
+{/*             <p className="p1">my</p> */}
             <p className="p2">2048</p>
           </div>
         </div>
